@@ -92,6 +92,7 @@ p.item-description {
     background-color: rgba(0, 0, 0, 0.05);
     border-radius: 5px;
     padding-left: 3px;
+    font-family: 'Courier New', Courier, monospace;
 }
 .show-logs {
     text-decoration: none;
